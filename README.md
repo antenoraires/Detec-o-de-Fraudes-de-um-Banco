@@ -4,10 +4,11 @@
 <meta charset = "UTF-8">
 <head>
 <h1>Detecção de Fraudes de um Banco</h1>
-<h6>
 <h2><font COLOR="#236B8E">Treinamento de um  algoritmo para a detecção de possíveis movimentações financeiras fraudulentas no banco de dados de uma instituição financeira.</h2>
 <body>
 <p style="text-align:center;" >A regressão logística é uma técnica estatística que tem como objetivo produzir, a partir de um conjunto de observações, um modelo que permita a predição de valores tomados por uma variável categórica, frequentemente binária, em função de uma ou mais variáveis independentes contínuas e/ou binárias</p>
+<p>Link para o dataset 
+<a href="https://www.kaggle.com/datasets/gopalmahadevan/fraud-detection-example?resource=download">Kaggle</a></p>
 <center>
           <img src="https://user-images.githubusercontent.com/67292251/191144206-c0a57188-6b1f-4848-9fec-518fbb78a75f.png" alt="Martiz" width="400" height="200">
 </center>
