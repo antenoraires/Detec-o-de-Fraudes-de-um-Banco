@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/7643c381d5a74e87a2dfc0513769f5e0/artifacts
+end_time: 1734097817745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7643c381d5a74e87a2dfc0513769f5e0
+run_name: fortunate-skink-940
+run_uuid: 7643c381d5a74e87a2dfc0513769f5e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734097806780
+status: 3
+tags: []
+user_id: antenor

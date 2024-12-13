@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/c311388545924acfb58be5d1cb9307e2/artifacts
+end_time: 1734096526920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c311388545924acfb58be5d1cb9307e2
+run_name: salty-seal-959
+run_uuid: c311388545924acfb58be5d1cb9307e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734096525801
+status: 3
+tags: []
+user_id: antenor

@@ -6,21 +6,21 @@ class Pipeline:
     
     def print(self):
         return "print"
-        
+
     def regression(self):
         """Executa a regressão e retorna os resultados."""
-        self.x_train ,self.x_test,self.y_train ,self.y_test = train_test(self.x, self.y)
-        result = regressao(self.x_train, self.y_train, self.x_test)
-        return result
+        self.x_train ,self.x_test, self.y_train ,self.y_test = train_test(self.x, self.y)
+        model, result = regressao(self.x_train, self.y_train, self.x_test)
+        return model , result
 
     def decision(self):
         """Executa a árvore de decisão e retorna os resultados."""
         self.x_train ,self.x_test,self.y_train ,self.y_test = train_test(self.x, self.y)
-        result = decision_tree(self.x_train, self.y_train, self.x_test)
-        return result
+        model, result = decision_tree(self.x_train, self.y_train, self.x_test)
+        return model, result
 
     def random(self):
         """Executa o random forest e retorna os resultados."""
         self.x_train ,self.x_test,self.y_train ,self.y_test = train_test(self.x, self.y)
-        result = random_forest(self.x_train, self.y_train, self.x_test)
-        return result
+        model ,result = random_forest(self.x_train, self.y_train, self.x_test)
+        return model, result

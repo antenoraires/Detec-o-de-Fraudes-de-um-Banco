@@ -12,18 +12,18 @@ def train_test(x,y):
 
 def regressao(x_train , y_train, x_test):
     lr = LogisticRegression(max_iter= 1000 , random_state= 42)
-    lr.fit(x_train,y_train)
+    model = lr.fit(x_train,y_train)
     y_pred = lr.predict(x_test)
-    return y_pred
+    return model, y_pred
 
 def decision_tree(x_train , y_train, x_test):
     dt = DecisionTreeClassifier(max_depth= 5,  random_state= 42)
     model = dt.fit(x_train, y_train)
-    y_pred =dt.predict(x_test)
-    return y_pred
+    y_pred = dt.predict(x_test)
+    return model, y_pred
 
 def random_forest(x_train , y_train, x_test):
     rf = RandomForestClassifier(max_depth= 5,  random_state= 42)
     model = rf.fit(x_train, y_train)
     y_pred =rf.predict(x_test)
-    return y_pred
+    return model, y_pred

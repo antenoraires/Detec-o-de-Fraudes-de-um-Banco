@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/7c99faffbd114adbbada089168d32a26/artifacts
+end_time: 1734098026335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c99faffbd114adbbada089168d32a26
+run_name: gaudy-grouse-425
+run_uuid: 7c99faffbd114adbbada089168d32a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734098015528
+status: 3
+tags: []
+user_id: antenor

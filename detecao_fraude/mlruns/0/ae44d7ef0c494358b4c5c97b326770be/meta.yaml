@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/ae44d7ef0c494358b4c5c97b326770be/artifacts
+end_time: 1734097743000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae44d7ef0c494358b4c5c97b326770be
+run_name: efficient-owl-193
+run_uuid: ae44d7ef0c494358b4c5c97b326770be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734097732070
+status: 3
+tags: []
+user_id: antenor

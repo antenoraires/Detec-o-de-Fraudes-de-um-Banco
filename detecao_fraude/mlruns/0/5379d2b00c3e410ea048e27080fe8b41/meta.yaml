@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/5379d2b00c3e410ea048e27080fe8b41/artifacts
+end_time: 1734097171997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5379d2b00c3e410ea048e27080fe8b41
+run_name: dashing-pig-593
+run_uuid: 5379d2b00c3e410ea048e27080fe8b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734097167757
+status: 3
+tags: []
+user_id: antenor

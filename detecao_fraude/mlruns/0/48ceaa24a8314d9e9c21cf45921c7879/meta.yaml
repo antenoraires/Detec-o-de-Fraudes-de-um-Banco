@@ -1,0 +1,15 @@
+artifact_uri: file:///home/antenor/Documents/projetos/Detecao-de-Fraudes/detecao_fraude/mlruns/0/48ceaa24a8314d9e9c21cf45921c7879/artifacts
+end_time: 1734097937360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48ceaa24a8314d9e9c21cf45921c7879
+run_name: polite-shad-490
+run_uuid: 48ceaa24a8314d9e9c21cf45921c7879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734097926432
+status: 3
+tags: []
+user_id: antenor
